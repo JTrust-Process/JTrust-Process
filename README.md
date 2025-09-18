@@ -1,11 +1,43 @@
-- 👋 Hi, I’m @JTrust-Process
-- 👀 I’m interested in ... Coding and taking my skills to the next level
-- 🌱 I’m currently learning ... Agile Development and AI Integration in the software development space 
-- 💞️ I’m looking to collaborate on ... Anything Computer Science Related
-- 📫 How to reach me ... phone # 717-590-0584 or email me @ jeremiahallu13@gmail.com
-- Also please note that I am a team player but I sometimes get really frustrated with coding so bear with me.
+# 👋 Hey there, I'm Jeremiah Allu (a.k.a. JTrust-Process)
 
-<!---
-JTrust-Process/JTrust-Process is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my GitHub! 🚀 I’m a **Computer Science student at Penn State Harrisburg** who loves solving problems, learning new tools, and pushing my skills to the next level.
+
+---
+
+## 👀 Interests
+- Building full-stack apps with **C#, .NET, Angular, React, and Python**
+- Exploring **AI/ML integration** in everyday projects (check out my NFL Trivia ML project 🏈)
+- Practicing **Agile development** and collaborating in team environments
+- Tackling fun side projects & experimenting with automation
+
+---
+
+## 🌱 Currently Learning
+- **Agile Development practices** (Scrum, Jira, CI/CD pipelines)
+- **AI Integration** for adaptive and data-driven applications
+- Expanding my toolbox with **Python, pandas, and scikit-learn**
+
+---
+
+## 💞️ Open to Collaborate On
+- Software engineering and data projects
+- Open-source contributions in web, ML, or automation
+- Anything that grows my skills & helps solve real-world problems
+
+---
+
+## 📫 How to Reach Me
+- 📧 Email: **[jeremiahallu13@gmail.com](mailto:jeremiahallu13@gmail.com)**
+- 📱 Phone: **(717) 590-0584**
+- 💼 LinkedIn: [linkedin.com/in/jeremiah-allu-268169255](https://www.linkedin.com/in/jeremiah-allu-268169255/)
+
+---
+
+## 🙌 A Little About Me
+- I’m a **team player** who enjoys collaboration  
+- I’m persistent—even when coding gets frustrating (because that’s how growth happens 💪)  
+- Always curious, always learning, always building 🛠️  
+
+---
+
+✨ Thanks for stopping by! Feel free to explore my repositories and reach out if you’d like to connect or collaborate.  
