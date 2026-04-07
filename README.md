@@ -1,43 +1,81 @@
 # 👋 Hey there, I'm Jeremiah Allu (a.k.a. JTrust-Process)
 
-Welcome to my GitHub! 🚀 I’m a **Computer Science student at Penn State Harrisburg** who loves solving problems, learning new tools, and pushing my skills to the next level.
+🚀 Computer Science student at Penn State Harrisburg  
+💻 Interested in Software Engineering, Automation, and Real-World Systems  
+📈 Always learning, building, and improving  
 
 ---
 
-## 👀 Interests
-- Building full-stack apps with **C#, .NET, Angular, React, and Python**
-- Exploring **AI/ML integration** in everyday projects (check out my NFL Trivia ML project 🏈)
-- Practicing **Agile development** and collaborating in team environments
-- Tackling fun side projects & experimenting with automation
+## 🛠️ Tech Stack
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![Jeremiah's GitHub stats](https://github-readme-stats.vercel.app/api?username=JTrust-Process&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JTrust-Process&layout=compact&theme=tokyonight)
+
+---
+
+## 🚀 Featured Projects
+
+### 🏈 NFL Trivia ML Project
+- Built a machine learning model to power a dynamic trivia experience  
+- Uses Python, pandas, and scikit-learn  
+- Focused on adaptive question generation  
+
+---
+
+### 💰 Flow Financial (Full-Stack App)
+- Full-stack web app using Angular and .NET  
+- Features authentication, UI components, and data handling  
+- Focused on building scalable and maintainable systems  
+
+---
+
+### 🤖 Automation & Scripting Projects
+- Developed scripts to automate workflows and data handling  
+- Focused on efficiency and reducing manual processes  
+- Built using Python and SQL  
 
 ---
 
 ## 🌱 Currently Learning
-- **Agile Development practices** (Scrum, Jira, CI/CD pipelines)
-- **AI Integration** for adaptive and data-driven applications
-- Expanding my toolbox with **Python, pandas, and scikit-learn**
+- Automation & scripting with Python  
+- Software engineering best practices (testing, debugging, clean code)  
+- Agile workflows (Scrum, Jira, CI/CD)  
+- Data analysis and ML fundamentals  
 
 ---
 
-## 💞️ Open to Collaborate On
-- Software engineering and data projects
-- Open-source contributions in web, ML, or automation
-- Anything that grows my skills & helps solve real-world problems
+## 🎯 Goals
+- Become a well-rounded **Software Engineer**  
+- Build impactful, mission-driven systems  
+- Continue growing in **automation and backend development**  
 
 ---
 
-## 📫 How to Reach Me
-- 📧 Email: **[jeremiahallu13@gmail.com](mailto:jeremiahallu13@gmail.com)**
-- 📱 Phone: **(717) 590-0584**
-- 💼 LinkedIn: [linkedin.com/in/jeremiah-allu-268169255](https://www.linkedin.com/in/jeremiah-allu-268169255/)
+## 📫 Connect With Me
+- 📧 Email: jeremiahallu13@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/jeremiah-allu-268169255/  
 
 ---
 
-## 🙌 A Little About Me
-- I’m a **team player** who enjoys collaboration  
-- I’m persistent—even when coding gets frustrating (because that’s how growth happens 💪)  
+## 🙌 About Me
+- Strong team player who enjoys collaboration  
+- Persistent problem solver — I enjoy tackling tough challenges  
 - Always curious, always learning, always building 🛠️  
 
 ---
 
-✨ Thanks for stopping by! Feel free to explore my repositories and reach out if you’d like to connect or collaborate.  
+⭐ Thanks for stopping by! Feel free to explore my repositories and connect!
