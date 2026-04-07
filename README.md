@@ -17,13 +17,6 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-
-![Jeremiah's GitHub stats](https://github-readme-stats.vercel.app/api?username=JTrust-Process&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JTrust-Process&layout=compact&theme=tokyonight)
 
 ---
 
